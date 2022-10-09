@@ -1,0 +1,17 @@
+
+# C/C++
+*.o
+*.a
+*.la
+*.so
+*.out
+
+# MacOS
+.DS_Store
+
+# Editors
+.idea
+.vscode
+*.sw*
+.*.sw*
+
